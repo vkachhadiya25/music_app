@@ -1,0 +1,107 @@
+[
+  {
+    "song": "Ishq Jaisa Kuch",
+    "data": {
+      "image": "https://pagalfree.com/images/128Ishq%20Jaisa%20Kuch%20-%20Fighter%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Ishq Jaisa Kuch - Fighter 128 Kbps.mp3"
+    },
+    "singer": [
+      "Vishal-Sheykhar",
+      "Shilpa Rao",
+      "Mellow D",
+      "Kumaar"
+    ],
+    "Album": "Fighter"
+  },
+  {
+    "song": "Banda - Dunki Song",
+    "data": {
+      "image": "https://pagalfree.com/images/128Banda%20-%20Dunki%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Banda%20-%20Dunki%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Pritam",
+      "Diljit Dosanjh",
+      "Kumaar"
+    ],
+    "Album": "Banda"
+  },
+  {
+    "song": "Abrars Entry Jamal Kudu",
+    "data": {
+      "image": "https://pagalfree.com/images/128Abrars%20Entry%20Jamal%20Kudu%20-%20Animal%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Abrars%20Entry%20Jamal%20Kudu%20-%20Animal%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Harshavardhan Rameshwar",
+      "Choir"
+    ],
+    "Album": "Animal"
+  },
+  {
+    "song": "Leke Prabhu Ka Naam Song",
+    "data": {
+      "image": "https://pagalfree.com/images/128Leke%20Prabhu%20Ka%20Naam%20-%20Tiger%203%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Leke%20Prabhu%20Ka%20Naam%20-%20Tiger%203%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Arijit Singh",
+      "Nikhita Gandhi",
+      "Pritam",
+      "Amitabh Bhattacharya"
+    ],
+    "Album": "Tiger 3"
+  },
+  {
+    "song": "O Maahi",
+    "data": {
+      "image": "https://pagalfree.com/images/128O%20Maahi%20-%20Dunki%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Leke%20Prabhu%20Ka%20Naam%20-%20Tiger%203%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Pritam",
+      "Arijit Singh",
+      "Irshad Kamil"
+    ],
+    "Album": "Dunki"
+  },
+  {
+    "song": "Satranga ",
+    "data": {
+      "image": "https://pagalfree.com/images/128Satranga%20-%20Animal%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Satranga%20-%20Animal%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Arijit Singh",
+      "Shreyas Puranik",
+      "Siddharth-Garima"
+    ],
+    "Album": "Animal"
+  },
+  {
+    "song": "Papa Meri Jaan",
+    "data": {
+      "image": "https://pagalfree.com/images/128Papa%20Meri%20Jaan%20-%20Animal%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Papa%20Meri%20Jaan%20-%20Animal%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Sonu Nigam",
+      "Harshavardhan Rameshwar",
+      "Raj Shekhar"
+    ],
+    "Album": "Animal"
+  },
+  {
+    "song": "Chaleya",
+    "data": {
+      "image": "https://pagalfree.com/images/128Chaleya%20-%20Jawan%20128%20Kbps.jpg",
+      "url": "https://pagalfree.com/musics/128-Chaleya%20-%20Jawan%20128%20Kbps.mp3"
+    },
+    "singer": [
+      "Anirudh Ravichander",
+      "Arijit Singh",
+      "Shilpa Rao"
+    ],
+    "Album": "Jawan"
+  }
+]
